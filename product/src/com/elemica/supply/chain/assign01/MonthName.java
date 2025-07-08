@@ -4,7 +4,7 @@ public class MonthName {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		int monthNumber=11;
+		int monthNumber=111;
 		switch(monthNumber) {
 		case 1:
 			System.out.println("January");break;
@@ -31,7 +31,9 @@ public class MonthName {
 		
 		case 12:
 			System.out.println("December"); break;
-		
+		default:
+			System.out.println("Invalid monthNumber!!");break;
+			
 		
 		}
 	
