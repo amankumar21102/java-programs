@@ -29,3 +29,14 @@ Step 8 : We selected new -> class -> provided Java file name (ex : Product)
  
 3. The Variable name should start with small letter followed by came case ( ex : userId, productid, id)
  
+ 
+# GIT Commands
+------------------
+ 
+1. git init  // Initialize repository
+ 
+2. git clone url // cloning the URL
+ 
+3. git commit -m "commit message" // commiting message
+ 
+4.git push // push the code into the repository
